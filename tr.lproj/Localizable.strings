@@ -1,0 +1,167 @@
+/* 
+  Localizable.strings
+  Omni
+
+  Created by ahmetAltintop on 24.07.2024.
+  
+*/
+
+//MARK: - Home -
+
+"SUMMARY" = "ÖZET";
+"Total_Branch" = "Şube Sayısı";
+" " = "Adet";
+"Total_Turnover" = "Ciro";
+"Total_Account" = "Hesap Sayısı";
+"Total_Account_" = "Hesap Sayısı";
+"Total_Discount" = "İndirim";
+"Total_Person" = "Kişi Sayısı";
+"Person" = "Kişi";
+"Financial_Report" = "Gelir";
+"Best_Selling_Products_report" = "En Çok Satan Ürünler";
+"Order_Type_Report" = "Sipariş Tipi";
+"Personnel_Sales_Report" = "Personel Satış";
+"Open_Checks_Report" = "Açık Çekler";
+"Main_Group_Sales_Report" = "Ana Grup Satış";
+"Discount_Detail_Report" = "İndirim Detay";
+"Unpaid_Gratuity_Report" = "Ödenmez İkram";
+"Payment_Detail_Report" = "Ödeme Detay";
+"About" = "Hakkında";
+"Exit" = "Çıkış";
+"Settings" = "Ayarlar";
+
+// Days
+"Monday" = "Pazartesi";
+"Tuesday" = "Salı";
+"Wednesday" = "Çarşamba";
+"Thursday" = "Perşembe";
+"Friday" = "Cuma";
+"Saturday" = "Cumartesi";
+"Sunday" = "Pazar";
+"Pazartesi" = "Pazartesi";
+"Salı" = "Salı";
+"Çarşamba" = "Çarşamba";
+"Perşembe" = "Perşembe";
+"Cuma" = "Cuma";
+"Cumartesi" = "Cumartesi";
+"Pazar" = "Pazar";
+
+
+//MARK: - Login -
+"Enter_Url" = "Server Bilgisini Giriniz";
+"Customer_Support_Line" = "Müşteri Destek Hattı";
+"Username" = "Kullanıcı Adı";
+"Password" = "Şifre";
+"Invalid_username_or_password" = "Geçersiz Kullanıcı Adı veya Şifre";
+"Enter_Valid_Username_And_Password" = "Lütfen geçerli Kullanıcı Adı ve Şifre giriniz";
+
+//MARK: - Settings -
+
+"Language" = "Dil";
+"Currency" = "Para Birimi";
+"Turkish" = "Türkçe";
+"English" = "İngilizce";
+"Server_Info" = "Sunucu Bilgileri";
+"Save" = "Kaydet";
+"Default" = "Varsayilan";
+"TL" = "TL";
+"EUR" = "EUR";
+"USD" = "USD";
+"Language_Change" = "Dil Değişikliği";
+"The_App_Will_Close" = "Uygulama dil değişikliği için kapanacaktır.";
+"Ok" = "Tamam";
+"Cancel" = "Vazgeç";
+"tr" = "Türkçe";
+"en" = "İngilizce";
+"Request_Failed" = "İstek başarısız oldu. Lütfen tekrar deneyin.";
+"No_Data" = "Sunucudan veri alınamadı";
+"Invalid_URL" = "Geçersiz URL";
+
+
+//MARK: - Filter -
+
+"StartDate" = "Başlangıç Tarihi";
+"EndDate" = "Bitiş Tarihi";
+"Filter_" = "Filtrele";
+"Date_Range" = "Tarih Aralığı";
+"Firms" = "Şubeler";
+"No_Report_Data" = "Kayıt Bulunamadı.";
+"Today" = "Bugün";
+"Yesterday" = "Dün";
+"This_Week" = "Bu Hafta";
+"Last_Week" = "Geçen Hafta";
+"This_Month" = "Bu Ay";
+"Last_Month" = "Geçen Ay";
+
+
+//MARK: - Reports-
+
+// Common
+"Branch" = "Şube";
+"Branches" = "Şubeler";
+"Report_Detail" = "Rapor Detayı";
+"Branch_Name" = "Şube Adı";
+"Number_of_People" = "Kişi Sayısı";
+"Amount" = "Tutar";
+"TOTAL" = "TOPLAM";
+"Start_Date" = "Baş. Tarihi";
+"End_Date" = "Bit. Tarihi";
+"Home_Page" = "Anasayfa";
+"Report" = "Rapor";
+"Report_" = "Raporu";
+"Filter" = "Filtre";
+"Amount_" = "Miktar";
+"StartDate_Short" = "Baş.Tarihi";
+"EndDate_Short" = "Bit. Tarihi";
+"Total_Checks" = "Hesap Sayısı";
+"Payment_Type" = "Ödeme";
+"Discount" = "İndirim";
+"List" = "Liste";
+"Chart" = "Grafik";
+"Other" = "Diğer";
+
+// GELİR RAPORU
+"Number_of_Open_Checks" = "Açık Çek Adedi";
+"Open_Check_Amount" = "Açık Çek Tutarı";
+
+// EN ÇOK SATAN ÜRÜNLER RAPORU
+"Product" = "Ürün";
+"Price" = "Fiyat";
+
+// SİPARİŞ TİPİ RAPORU
+"Sale_Type" = "Satış Türü";
+"Number_of_Accounts" = "Hesap Sayısı";
+"Undefined_Range" = "Tanımsız Aralık";
+
+// PERSONEL SATIŞ RAPORU
+"Cashier_Name" = "Personel";
+
+// AÇIK ÇEKLER RAPORU
+"Table_Number" = "Masa No";
+"Total_Amount" = "Toplam Tutar";
+"BRANCH_TOTAL" = "ŞUBE TOPLAMI";
+
+// ANA GRUP SATIŞ RAPORU
+"Main_Group_Name" = "Ana Grup";
+
+// İNDİRİM DETAY RAPORU
+"Discount_Name" = "İndirim Adı";
+"Discount_Amount" = "İndirim Tutarı";
+
+// ÖDENMEZ İKRAM RAPORU
+"Personnel_Name" = "Personel Adı";
+"Personnel" = "Personel";
+"Date" = "Tarih";
+
+// ÖDEME DETAY RAPORU
+"Payment_Name" = "Ödeme Adı";
+
+//MARK: - About -
+"Legal_Notice" = "Yasal Uyarı";
+"Version" = "Versiyon";
+"Website" = "Web Site";
+"Legal_Notice_Statement" = "Bu programın tamamen veya bir bölümünün izinsiz kopyalanması ve dağıtılması suçtur ve bunu yapanlar hakkında yasal hükümler geçerlidir.";
+
+// Exit
+"LOGOUT" = "Ayarlar";
+"LOGIN" = "Giriş";
