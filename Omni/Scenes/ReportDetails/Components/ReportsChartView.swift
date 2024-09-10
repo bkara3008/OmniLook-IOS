@@ -67,16 +67,6 @@ class ReportsChartView: UIView {
         dataSet.colors = ChartColorTemplates.vordiplom() + ChartColorTemplates.pastel() + [UIColor.systemGray]
         dataSet.sliceSpace = 2.0
         
-        // Tek bir çizgi dışarı doğru çıksın, ikinci çizgi yok
-        dataSet.xValuePosition = .outsideSlice
-        dataSet.yValuePosition = .outsideSlice
-        dataSet.valueLinePart1OffsetPercentage = 0.8 // Çizgi uzunluğu, dilimden dışarı ne kadar çıkacak
-        dataSet.valueLinePart1Length = 0.7 // Çizginin uzunluğu
-        dataSet.valueLinePart2Length = 0.0 // İkinci kısmı istemiyoruz, bu yüzden 0.0 yapıldı
-        dataSet.valueLineVariableLength = false // Çizgi sabit uzunlukta olacak
-        dataSet.valueLineWidth = 1.0
-        dataSet.valueLineColor = .black
-        
         let pieData = PieChartData(dataSet: dataSet)
         pieData.setValueTextColor(.black)
         pieData.setValueFont(UIFont.systemFont(ofSize: 12))
