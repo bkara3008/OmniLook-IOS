@@ -1,0 +1,166 @@
+/* 
+  Localizable.strings
+  Omni
+
+  Created by ahmetAltintop on 24.07.2024.
+  
+*/
+
+//MARK: - Home -
+
+"SUMMARY" = "SUMMARY";
+"Total_Branch" = "Total Store";
+//"Quantity" = "Quantity";
+"Total_Turnover" = "Grand Total";
+"Total_Account" = "Total Account";
+"Total_Account_" = "Total Checks";
+"Total_Discount" = "Total Discount";
+"Total_Person" = "Total Cover";
+"Person" = "Person";
+"Financial_Report" = "Sale Report";
+"Best_Selling_Products_report" = "Best Selling Products";
+"Order_Type_Report" = "Order Type";
+"Personnel_Sales_Report" = "Personnel Sales";
+"Open_Checks_Report" = "Open Checks";
+"Main_Group_Sales_Report" = "Main Group Sales";
+"Discount_Detail_Report" = "Discount Detail";
+"Unpaid_Gratuity_Report" = "Unpaid Gratuity";
+"Payment_Detail_Report" = "Payment Detail";
+"About" = "About";
+"Exit" = "Exit";
+"Settings" = "Settings";
+
+// Days
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "Saturday";
+"Sunday" = "Sunday";
+"Pazartesi" = "Monday";
+"Salı" = "Tuesday";
+"Çarşamba" = "Wednesday";
+"Perşembe" = "Thursday";
+"Cuma" = "Friday";
+"Cumartesi" = "Saturday";
+"Pazar" = "Sunday";
+
+//MARK: - Login -
+"Enter_Url" = "Please Enter Server Information";
+"Customer_Support_Line" = "Customer Support Line";
+"Username" = "Username";
+"Password" = "Password";
+"Invalid_username_or_password" = "Invalid Username or Password";
+"Enter_Valid_Username_And_Password" = "Please Enter Valid Username and Password";
+
+//MARK: - Settings -
+
+"Language" = "Language";
+"Currency" = "Currency";
+"Turkish" = "Turkish";
+"English" = "English";
+"Server_Info" = "Server Information";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"Default" = "Default";
+"TL" = "TL";
+"EUR" = "EUR";
+"USD" = "USD";
+"Language_Change" = "Language Change";
+"The_App_Will_Close" = "The application will close for language change";
+"Ok" = "Ok";
+"tr" = "Turkish";
+"en" = "English";
+"Request_Failed" = "Request Failed";
+"No_Data" = "Failed to retrieve data from the server";
+"Invalid_URL" = "Invalid URL";
+
+//MARK: - Filter -
+
+"StartDate" = "Start Date";
+"EndDate" = "End Date";
+"Filter_" = "Filter";
+"Date_Range" = "Date Range";
+"Firms" = "Stores";
+"No_Report_Data" = "No Record Found";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"This_Week" = "This Week";
+"Last_Week" = "Last Week";
+"This_Month" = "This Month";
+"Last_Month" = "Last Month";
+
+//MARK: - Reports-
+
+// Common
+"Branch" = "Store";
+"Branches" = "Stores";
+"Report_Detail" = "Report Detail";
+"Branch_Name" = "Store Name";
+"Number_of_People" = "Number of People";
+"Amount" = "Amount";
+"Amount_" = "Quantity";
+"Quantity" = "Quantity";
+"TOTAL" = "TOTAL";
+"Start_Date" = "Start Date";
+"End_Date" = "End Date";
+"Home_Page" = "Home";
+"Report" = "Report";
+"Report_" = "Report";
+"Filter" = "Filter";
+"StartDate_Short" = "Start Date";
+"EndDate_Short" = "End Date";
+"Total_Checks" = "Total Checks";
+"Payment_Type" = "Payment";
+"Discount" = "Discount";
+"List" = "List";
+"Chart" = "Chart";
+"Other" = "Other";
+
+// GELİR RAPORU
+"Number_of_Open_Checks" = "Number of Open Checks";
+"Open_Check_Amount" = "Open Check Amount";
+
+// EN ÇOK SATAN ÜRÜNLER RAPORU
+"Product" = "Product";
+"Price" = "Price";
+
+// SİPARİŞ TİPİ RAPORU
+"Sale_Type" = "Sale Type";
+"Number_of_Accounts" = "Total Checks";
+"Undefined_Range" = "Undefined Range";
+
+// PERSONEL SATIŞ RAPORU
+"Cashier_Name" = "Personnel";
+
+// AÇIK ÇEKLER RAPORU
+"Table_Number" = "Table Number";
+"Total_Amount" = "Amount";
+"BRANCH_TOTAL" = "STORE TOTAL";
+
+// ANA GRUP SATIŞ RAPORU
+"Main_Group_Name" = "Main Group";
+
+// İNDİRİM DETAY RAPORU
+"Discount_Name" = "Discount Name";
+"Discount_Amount" = "Discount Amount";
+
+// ÖDENMEZ İKRAM RAPORU
+"Personnel_Name" = "Personnel Name";
+"Personnel" = "Personnel";
+"Date" = "Date";
+
+// ÖDEME DETAY RAPORU
+"Payment_Name" = "Payment Name";
+
+//MARK: - About -
+
+"Legal_Notice" = "Legal Notice";
+"Version" = "Version";
+"Website" = "Website";
+"Legal_Notice_Statement" = "Unauthorized copying and distribution of all or part of this program is a criminal offense and legal provisions apply to those who do so.";
+
+// Exit
+"LOGOUT" = "Logout";
+"LOGIN" = "Login";
